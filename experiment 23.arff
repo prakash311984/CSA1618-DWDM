@@ -1,0 +1,34 @@
+@relation citycrimes
+
+@attribute City {Chennai,Coimbatore,Madurai,Tiruchirappalli,Salem,Tirunelveli,Erode,Vellore,Thoothukudi,Dindigul,Thanjavur,Hosur,Nagercoil,Kanchipuram,Karur,Namakkal,Sivakasi,Cuddalore,Kumbakonam,Pollachi}
+@attribute Pop numeric
+@attribute WC numeric
+@attribute BP numeric
+@attribute Mur numeric
+@attribute Rap numeric
+@attribute Rob numeric
+@attribute Ass numeric
+@attribute Bus numeric
+@attribute car numeric
+
+@data
+Chennai,7100,125,42,310,520,180,920,640,780
+Coimbatore,2200,38,12,95,140,55,260,180,210
+Madurai,1500,45,16,110,170,62,290,195,230
+Tiruchirappalli,1100,28,9,70,105,40,190,130,155
+Salem,1000,32,11,78,115,44,205,145,170
+Tirunelveli,970,24,8,60,90,34,165,115,135
+Erode,820,19,6,48,72,27,130,92,108
+Vellore,500,21,7,55,80,30,145,100,120
+Thoothukudi,410,18,6,42,65,25,118,82,96
+Dindigul,210,14,4,35,52,19,95,66,78
+Thanjavur,290,16,5,39,58,22,105,73,86
+Hosur,350,17,5,44,62,23,112,78,92
+Nagercoil,225,12,3,29,43,16,78,54,64
+Kanchipuram,165,11,3,25,38,14,68,48,57
+Karur,110,8,2,18,27,10,49,34,40
+Namakkal,125,9,2,20,29,11,54,37,44
+Sivakasi,135,10,3,22,32,12,59,41,48
+Cuddalore,310,15,5,37,55,21,100,70,83
+Kumbakonam,145,9,2,21,31,11,56,39,46
+Pollachi,115,8,2,17,26,9,47,32,38

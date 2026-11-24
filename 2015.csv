@@ -1,0 +1,31 @@
+Reference Number,Grid ref: Easting,Grid Ref: Northing,Number of vehicles,Accident date,Time(24 hr),1st Road class,Road Surface,Lighting conditions,Weather conditions,Casualty class,Sex of casualty,Age of casualty,Type of casualty
+100001,530120,181450,2,2015-01-03,08:15,A,Dry,Daylight,Fine,Driver,Male,34,Car occupant
+100002,531240,182110,1,2015-01-05,17:40,B,Wet,Darkness - lights lit,Rain,Passenger,Female,28,Car occupant
+100003,529880,180920,3,2015-01-08,22:10,A,Dry,Darkness - no lighting,Fine,Pedestrian,Male,19,Pedestrian
+100004,532010,183300,2,2015-01-12,07:30,C,Frost/Ice,Daylight,Snow,Driver,Female,46,Car occupant
+100005,528760,179840,1,2015-01-15,13:25,B,Dry,Daylight,Fine,Cyclist,Male,22,Cyclist
+100006,533150,184020,2,2015-02-02,18:05,A,Wet,Darkness - lights lit,Rain,Driver,Male,51,Car occupant
+100007,527940,178990,2,2015-02-06,09:10,B,Dry,Daylight,Fine,Passenger,Female,17,Car occupant
+100008,534220,184650,4,2015-02-11,23:45,A,Wet,Darkness - lights lit,Rain,Pedestrian,Female,63,Pedestrian
+100009,526830,178210,1,2015-02-18,15:20,C,Dry,Daylight,Fine,Driver,Male,39,Car occupant
+100010,535010,185120,2,2015-02-23,06:55,A,Snow,Darkness - lights lit,Snow,Passenger,Male,31,Car occupant
+100011,530450,181760,2,2015-03-04,08:50,B,Wet,Daylight,Rain,Cyclist,Female,26,Cyclist
+100012,531780,182540,3,2015-03-09,19:15,A,Dry,Darkness - lights lit,Fine,Driver,Female,44,Car occupant
+100013,529110,180330,1,2015-03-14,12:05,C,Dry,Daylight,Fine,Pedestrian,Male,72,Pedestrian
+100014,532640,183870,2,2015-03-19,16:35,B,Wet,Daylight,Rain,Passenger,Female,36,Car occupant
+100015,528320,179210,2,2015-04-01,07:05,A,Dry,Daylight,Fine,Driver,Male,29,Car occupant
+100016,533870,184390,3,2015-04-07,21:30,A,Wet,Darkness - lights lit,Rain,Pedestrian,Male,41,Pedestrian
+100017,527510,178560,1,2015-04-13,10:45,C,Dry,Daylight,Fine,Cyclist,Female,33,Cyclist
+100018,534680,185010,2,2015-04-20,18:55,B,Wet,Darkness - lights lit,Rain,Driver,Male,58,Car occupant
+100019,526290,177940,2,2015-05-02,14:10,A,Dry,Daylight,Fine,Passenger,Female,24,Car occupant
+100020,535420,185760,4,2015-05-08,00:20,A,Wet,Darkness - no lighting,Fine,Pedestrian,Male,67,Pedestrian
+100021,530890,182030,1,2015-05-15,11:35,B,Dry,Daylight,Fine,Driver,Female,37,Car occupant
+100022,531360,182890,2,2015-06-03,17:25,C,Wet,Darkness - lights lit,Rain,Passenger,Male,15,Car occupant
+100023,529640,180710,3,2015-06-09,20:40,A,Dry,Darkness - lights lit,Fine,Cyclist,Male,48,Cyclist
+100024,532280,183540,2,2015-06-16,09:55,B,Dry,Daylight,Fine,Driver,Female,53,Car occupant
+100025,528990,179670,1,2015-07-01,13:50,C,Wet,Daylight,Rain,Pedestrian,Female,30,Pedestrian
+100026,533420,184880,2,2015-07-11,22:55,A,Wet,Darkness - lights lit,Rain,Driver,Male,42,Car occupant
+100027,527180,178120,1,2015-08-05,08:05,B,Dry,Daylight,Fine,Cyclist,Male,21,Cyclist
+100028,534010,185340,3,2015-09-12,16:15,A,Dry,Daylight,Fine,Passenger,Female,61,Car occupant
+100029,526610,177620,2,2015-10-21,19:50,C,Wet,Darkness - lights lit,Rain,Driver,Male,35,Car occupant
+100030,535880,186020,2,2015-12-17,07:45,B,Frost/Ice,Daylight,Snow,Pedestrian,Female,75,Pedestrian

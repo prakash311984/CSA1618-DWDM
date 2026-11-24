@@ -1,0 +1,68 @@
+@relation 2015_fpgrowth-weka.filters.unsupervised.attribute.NominalToBinary-Rfirst-last-weka.filters.unsupervised.attribute.NumericToBinary-Rfirst-last-weka.filters.unsupervised.attribute.Remove-R25
+
+@attribute NumberOfVehicles=Two_binarized {0,1}
+@attribute NumberOfVehicles=One_binarized {0,1}
+@attribute NumberOfVehicles=ThreePlus_binarized {0,1}
+@attribute RoadClass=A_binarized {0,1}
+@attribute RoadClass=B_binarized {0,1}
+@attribute RoadClass=C_binarized {0,1}
+@attribute RoadSurface=Dry_binarized {0,1}
+@attribute RoadSurface=Wet_binarized {0,1}
+@attribute RoadSurface=FrostIce_binarized {0,1}
+@attribute LightingConditions=Daylight_binarized {0,1}
+@attribute LightingConditions=DarknessLightsLit_binarized {0,1}
+@attribute LightingConditions=DarknessNoLighting_binarized {0,1}
+@attribute WeatherConditions=Fine_binarized {0,1}
+@attribute WeatherConditions=Rain_binarized {0,1}
+@attribute WeatherConditions=Snow_binarized {0,1}
+@attribute CasualtyClass=Driver_binarized {0,1}
+@attribute CasualtyClass=Passenger_binarized {0,1}
+@attribute CasualtyClass=Pedestrian_binarized {0,1}
+@attribute CasualtyClass=Cyclist_binarized {0,1}
+@attribute Sex=Female_binarized {0,1}
+@attribute AgeGroup=Adult_binarized {0,1}
+@attribute AgeGroup=Young_binarized {0,1}
+@attribute AgeGroup=Senior_binarized {0,1}
+@attribute AgeGroup=MiddleAged_binarized {0,1}
+
+@data
+1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0
+0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0
+0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1
+1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0
+0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0
+0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0
+1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1
+0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0
+1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0
+0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0
+0,1,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1
+1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+0,1,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0
+1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0
+1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0
+0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1
+0,0,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0
+0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0
+1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0
+1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0

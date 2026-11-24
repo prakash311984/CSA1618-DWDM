@@ -1,0 +1,45 @@
+@relation netscan
+
+@attribute Newsgroups {comp.graphics,comp.sys,rec.sport,sci.med,talk.politics,alt.music,sci.space,misc.forsale,rec.autos,sci.electronics}
+@attribute posts numeric
+@attribute posters numeric
+@attribute PPRatio numeric
+@attribute Returnees numeric
+@attribute Replies numeric
+@attribute Repliers numeric
+@attribute UnRMsgs numeric
+@attribute Avg.LineCT numeric
+@attribute Xports numeric
+@attribute XPTgs numeric
+
+@data
+comp.graphics,420,85,4.94,18,96,42,31,12.6,14,22
+comp.graphics,390,78,5,16,88,39,28,11.9,13,20
+comp.graphics,455,92,4.95,21,104,47,35,13.4,16,24
+comp.sys,510,102,5,24,120,53,41,14.8,18,27
+comp.sys,485,97,5,22,113,50,39,14.1,17,25
+comp.sys,530,108,4.91,26,126,56,44,15.2,19,29
+rec.sport,310,62,5,12,71,31,23,9.8,10,16
+rec.sport,335,68,4.93,14,76,34,25,10.2,11,17
+rec.sport,295,59,5,11,67,29,21,9.4,9,15
+sci.med,610,122,5,29,140,62,48,17.5,21,32
+sci.med,585,117,5,27,134,59,46,16.9,20,30
+sci.med,640,128,5,31,148,66,51,18.1,22,34
+talk.politics,720,144,5,34,165,73,57,20.4,25,38
+talk.politics,690,138,5,32,158,70,54,19.7,24,36
+talk.politics,750,150,5,36,172,76,60,21.2,26,40
+alt.music,260,52,5,9,58,25,18,8.1,8,13
+alt.music,280,56,5,10,63,27,20,8.6,9,14
+alt.music,245,49,5,8,55,24,17,7.8,7,12
+sci.space,470,94,5,20,108,48,37,13.8,16,25
+sci.space,445,89,5,19,102,45,34,13.1,15,23
+sci.space,495,99,5,23,116,51,40,14.5,17,27
+misc.forsale,180,36,5,6,40,18,13,6.2,5,9
+misc.forsale,195,39,5,7,44,19,14,6.7,6,10
+misc.forsale,165,33,5,5,37,16,12,5.8,4,8
+rec.autos,360,72,5,15,82,36,27,10.9,12,19
+rec.autos,380,76,5,16,86,38,29,11.3,13,20
+rec.autos,345,69,5,14,79,35,26,10.5,11,18
+sci.electronics,550,110,5,25,130,57,43,15.8,19,29
+sci.electronics,525,105,5,24,124,55,41,15.1,18,28
+sci.electronics,570,114,5,27,136,60,46,16.3,20,31
